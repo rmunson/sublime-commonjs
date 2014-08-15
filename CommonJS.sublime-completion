@@ -5,6 +5,5 @@
     [
             { "trigger": "req|requ|requi|require", "contents": "require" },
             { "trigger": "def|defi|define", "contents": "define"}
-});" },
     ]
 }
